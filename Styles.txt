@@ -1,0 +1,6 @@
+Styles: (keine Umbrüche)
+
+body {background:#fff;}
+#app main, #app #sortable {padding: 10px}
+.item{border: 0px!important;}
+.item:hover {box-shadow: 0 0 15px 0 rgb(0 0 0 / 18%)!important;}

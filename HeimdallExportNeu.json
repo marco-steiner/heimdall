@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Home Assistant",
+    "colour": "#FFF",
+    "url": "http://192.168.188.76:8123/",
+    "description": "{\"enabled\":\"0\",\"override_url\":null,\"token\":null,\"first_stat_label\":null,\"first_stat_template\":null,\"second_stat_label\":null,\"second_stat_template\":null}",
+    "appid": "5c81a4f5ee23ebffa0724a22a040c54e6cb9d7c5",
+    "appdescription": null
+  },
+  {
+    "title": "Home Assistant iPad Mini",
+    "colour": "#FFF",
+    "url": "http://192.168.188.76:8123/local/ipadmini/index.html",
+    "description": "{\"enabled\":\"0\",\"override_url\":null,\"token\":null,\"first_stat_label\":null,\"first_stat_template\":null,\"second_stat_label\":null,\"second_stat_template\":null}",
+    "appid": "5c81a4f5ee23ebffa0724a22a040c54e6cb9d7c5",
+    "appdescription": null
+  },
+  {
+    "title": "AVM Fritzbox",
+    "colour": "#FFF",
+    "url": "http://fritz.box/",
+    "description": "{\"enabled\":\"0\"}",
+    "appid": "e8354374b262e6f1055e7412d11f24a164a50f79",
+    "appdescription": null
+  },
+  {
+    "title": "Proxmox",
+    "colour": "#FFF",
+    "url": "https://192.168.188.38:8006",
+    "description": "{\"enabled\":\"0\",\"override_url\":null,\"nodes\":null,\"ignore_tls\":\"0\",\"token_id\":null,\"token_value\":null}",
+    "appid": "391f2b7f3fe853e1ea09723eeafc354fa291ab48",
+    "appdescription": null
+  },
+  {
+    "title": "Ender 3",
+    "colour": "#FFF",
+    "url": "http://192.168.188.34/",
+    "description": "{\"enabled\":\"0\",\"override_url\":null,\"apikey\":null}",
+    "appid": "99be0df8034cbcd7b5dfb3290839f7db21c1acbb",
+    "appdescription": null
+  },
+  {
+    "title": "NAS",
+    "colour": "#FFF",
+    "url": "http://192.168.0.77/",
+    "description": null,
+    "appid": "4095a83996a808dfa4ef0e283b08fa3684596bb4",
+    "appdescription": null
+  },
+  {
+    "title": "Switchbot ESP32",
+    "colour": "#FFF",
+    "url": "http://192.168.188.91/",
+    "description": null,
+    "appid": "null",
+    "appdescription": null
+  },
+  {
+    "title": "Shelly Bürolicht",
+    "colour": "#FFF",
+    "url": "http://192.168.188.22/",
+    "description": null,
+    "appid": "null",
+    "appdescription": null
+  },
+  {
+    "title": "Shelly Stehlampe",
+    "colour": "#FFF",
+    "url": "http://192.168.188.24/",
+    "description": null,
+    "appid": "null",
+    "appdescription": null
+  },
+  {
+    "title": "Shelly Wohnzimmerlicht",
+    "colour": "#FFF",
+    "url": "http://192.168.188.21/",
+    "description": null,
+    "appid": "null",
+    "appdescription": null
+  },
+  {
+    "title": "Shelly Rollo",
+    "colour": "#FFF",
+    "url": "http://192.168.188.50/",
+    "description": null,
+    "appid": "null",
+    "appdescription": null
+  },
+  {
+    "title": "Shelly TV",
+    "colour": "#FFF",
+    "url": "http://192.168.188.23/",
+    "description": null,
+    "appid": "null",
+    "appdescription": null
+  },
+  {
+    "title": "Shelly Einrichten",
+    "colour": "#FFF",
+    "url": "http://192.168.33.1/",
+    "description": null,
+    "appid": "null",
+    "appdescription": null
+  }
+]
