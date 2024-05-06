@@ -1,6 +1,6 @@
 # Heimdall Application Dashboard
 
-![screenshot](cookidoo-screenshot.png)
+![screenshot](heimdall-screenshot.png)
 
 
 [Heimdall Doku](https://heimdall.site/)
